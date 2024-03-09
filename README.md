@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/begiedz/begiedz/blob/main/img/bgdzBannerGithub.png"  />
+  <img src="https://github.com/begiedz/begiedz/blob/main/img/bD24_Banner.png"  />
 </div>
 
 ###
