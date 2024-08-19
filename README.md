@@ -29,8 +29,8 @@ year.forEach((day) => {
 
 - **Location:** Utrecht, Netherlands
 - **Background:** Graphic Design, Interior Design
-- **Passions:** Art, Web Development, Self-Improvement, Electronic Music
-- **Goals:** To become a proficient web developer, continuously grow intellectually, spiritually, emotionally, and financially.
+- **Passions:** Art, Photography, Software, Electronic Music
+- **Goals:** To become a proficient web developer, continuous self improvement.
 
 ---
 
@@ -40,23 +40,23 @@ year.forEach((day) => {
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="SASS" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" />
 </div>
 
@@ -64,26 +64,28 @@ year.forEach((day) => {
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-  <img width="12" />
+ <img width="8" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
 </div>
 
 ### Tools & Platforms
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" />
 </div>
 
 ---
@@ -102,7 +104,3 @@ year.forEach((day) => {
 - **Email:** [begiedz.developer@gmail.com](mailto:begiedz.developer@gmail.com)
 - **LinkedIn:** [Dariusz Begiedza](https://www.linkedin.com/in/dariuszbegiedza/)
 - **GitHub:** [begiedz](https://github.com/begiedz)
-
----
-
-Let's connect and create something amazing together!
