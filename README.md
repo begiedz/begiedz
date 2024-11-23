@@ -17,9 +17,9 @@ year.forEach((day) => {
 
 <code>> Hi there!</code>
 
-<code>I'm Dariusz, a budding software engineer with a knack for creating captivating digital experiences. With a foundation in graphic and interior design, and a newfound love for coding, I aim to craft visually stunning and highly functional interfaces that make a lasting impact.</code>
+<code>I'm Dariusz, an aspiring software engineer with a knack for creating captivating digital experiences. With a foundation in graphic design, and a newfound love for coding, I aim to craft visually stunning and highly functional interfaces that make a lasting impact.</code>
 
-<code>My journey began in interior design, but I've since transitioned into the dynamic world of web development. I am passionate about blending aesthetic appeal with seamless functionality. I'm always eager to collaborate on transformative projects. Let's bring digital dreams to life and create wonders together!</code>
+<code>My journey began in graphic design, but I've since transitioned into the dynamic world of web development. I am passionate about blending aesthetic appeal with seamless functionality. I'm always eager to collaborate on transformative projects. Let's bring digital dreams to life and create wonders together!</code>
 
 
 
