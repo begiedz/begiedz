@@ -11,7 +11,7 @@ year.forEach((day) => {
   success.push(day.effort);
 });
 ```
-<code>Last login: Thu Oct 17 17:17:13 on ttys000</code>
+<code>Last login: Sat Nov 23 10:34:13 on ttys000</code>
 <br>
 <code>begiedz@Dariuszs-MacBook-Air ~ %</code>
 
