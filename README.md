@@ -4,87 +4,78 @@
 
 # Dariusz Begiedza
 
-```javascript
-let success = [];
+```typescript
+const success = [];
 
-year.forEach((day) => {
+year.forEach(day => {
   success.push(day.effort);
 });
 ```
-<code>Last login: Sat Nov 23 10:34:13 on ttys000</code>
+
+<code>Last login: Wed Dec 4 20:15:13 on ttys000</code>
 <br>
 <code>begiedz@Dariuszs-MacBook-Air ~ %</code>
 
 <code>> Hi there!</code>
 
-<code>I'm Dariusz, an aspiring software engineer with a knack for creating captivating digital experiences. With a foundation in graphic design, and a newfound love for coding, I aim to craft visually stunning and highly functional interfaces that make a lasting impact.</code>
+<code>I'm Dariusz, a passionate software engineer, combining creativity and technology to build exceptional digital experiences. With roots in visual arts and a deep dive into web development, I specialize in crafting user-friendly, visually compelling interfaces that truly resonate.</code>
 
-<code>My journey began in graphic design, but I've since transitioned into the dynamic world of web development. I am passionate about blending aesthetic appeal with seamless functionality. I'm always eager to collaborate on transformative projects. Let's bring digital dreams to life and create wonders together!</code>
+<code>My journey started with a love for art and design, which naturally evolved into a fascination with coding. Now, I'm on a mission to blend aesthetic precision with robust functionality in every project I tackle. From dynamic React apps to intuitive user interfaces, I'm here to make the web a more beautiful and efficient place.</code>
 
-
-
----
-
-## 🌟 About Me
-
-- **Passions:** Visual Arts, Software Engineering, Electronic Music
-- **Goals:** To become a proficient software engineer, continuous self improvement.
+<code>Let's collaborate and turn bold ideas into innovative digital solutions!</code>
 
 ---
 
-## 🛠️ Skills
+## 🌕 About Me
 
-### Frontend
+- **Personality:**
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="SASS" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" />
-</div>
+  - INTJ (The Architect)
+  - Enneagram Type 3w4
+  - Highly analytical and introspective, constantly seeking self-improvement and deeper understanding of the world.
 
-### Backend
+- **Passions:**
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
- <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
-</div>
+  - Visual Arts
+  - Software Development
+  - Stoicism and Mindfulness
 
-### Tools & Platforms
+- **Motivation:**
+  - Driven by the desire to achieve personal and professional success.
+  - Inspired by the challenge of continuous self-improvement and mastery of new skills.
+  - Focused on building a life where my passions align with my career and personal happiness.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="NPM" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" />
-</div>
+---
+
+## 🚀 Tech Stack
+
+- **Frontend**
+
+  - <img src="https://skillicons.dev/icons?i=ts" height="24" alt="TypeScript" /> <span>TypeScript</span>
+  - <img src="https://skillicons.dev/icons?i=react" height="24" alt="React" /> <span>React</span>
+  - <img src="https://skillicons.dev/icons?i=react" height="24" alt="React Router" /> <span>React Native</span>
+  - <img src="https://skillicons.dev/icons?i=nextjs" height="24" alt="Next.js" /> <span>Next.js</span>
+  - <img src="https://www.svgrepo.com/show/354262/react-router.svg" height="24" alt="React Router" /> <span>React Router</span>
+  - <img src="https://skillicons.dev/icons?i=tailwind" height="24" alt="TailwindCSS" /> <span>TailwindCSS</span>
+  - <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="24" alt="shadcn/ui" style="border-radius: 4px" /> <span>shadcn/ui</span>
+  - <img src="https://seeklogo.com/images/H/headless-ui-logo-034B045C5C-seeklogo.com.png" height="24" alt="Headless UI" /> <span>Headless UI</span>
+  - <img src="https://skillicons.dev/icons?i=bootstrap" height="24" alt="Bootstrap" /> <span>Bootstrap</span>
+  - <img src="https://skillicons.dev/icons?i=sass" height="24" alt="SASS" /> <span>SASS</span>
+
+- **Backend**
+
+  - <img src="https://skillicons.dev/icons?i=nodejs" height="24" alt="Node.js" /> <span>Node.js</span>
+  - <img src="https://skillicons.dev/icons?i=express" height="24" alt="Express.js" /> <span>Express.js</span>
+  - <img src="https://skillicons.dev/icons?i=php" height="24" alt="PHP" /> <span>PHP</span>
+  - <img src="https://skillicons.dev/icons?i=mysql" height="24" alt="MySQL" /> <span>MySQL</span>
+  - <img src="https://skillicons.dev/icons?i=mongodb" height="24" alt="MongoDB" /> <span>MongoDB</span>
+
+- **Tools & Platforms**
+  - <img src="https://skillicons.dev/icons?i=vscode" height="24" alt="VSCode" /> <span>Visual Studio Code</span>
+  - <img src="https://skillicons.dev/icons?i=npm" height="24" alt="NPM" /> <span>npm</span>
+  - <img src="https://skillicons.dev/icons?i=vite" height="24" alt="Vite" /> <span>Vite</span>
+  - <img src="https://skillicons.dev/icons?i=git" height="24" alt="Git" /> <span>Git</span>
+  - <img src="https://skillicons.dev/icons?i=postman" height="24" alt="Postman" /> <span>Postman</span>
 
 ---
 
@@ -97,8 +88,8 @@ year.forEach((day) => {
 
 ---
 
-## 📫 Contact Me
+## ✉️ Contact
 
 - **Email:** [begiedz.developer@gmail.com](mailto:begiedz.developer@gmail.com)
 - **LinkedIn:** [Dariusz Begiedza](https://www.linkedin.com/in/dariuszbegiedza/)
-- **GitHub:** [begiedz](https://github.com/begiedz)
+- **Portfolio:** [begiedzDeveloper](https://begiedz.vercel.app)
