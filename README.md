@@ -8,11 +8,11 @@
 const success = [];
 
 year.forEach(day => {
-	success.push(day.effort);
+  success.push(day.effort);
 });
 ```
 
-<code>Last login: Sun Dec 8 18:34:13 on ttys000</code>
+<code>Last login: Sun Dec 8 17:19:13 on ttys000</code>
 <br>
 <code>begiedz@Dariuszs-MacBook-Air ~ %</code>
 
