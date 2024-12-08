@@ -8,11 +8,11 @@
 const success = [];
 
 year.forEach(day => {
-  success.push(day.effort);
+	success.push(day.effort);
 });
 ```
 
-<code>Last login: Wed Dec 4 20:15:13 on ttys000</code>
+<code>Last login: Sun Dec 8 18:34:13 on ttys000</code>
 <br>
 <code>begiedz@Dariuszs-MacBook-Air ~ %</code>
 
@@ -24,69 +24,157 @@ year.forEach(day => {
 
 <code>Let's collaborate and turn bold ideas into innovative digital solutions!</code>
 
----
-
 ## 🌕 About Me
 
-- **Personality:**
+<table>
+  <tr>
+    <th align="left">Passions</th>
+  </tr>
+  <tr>
+    <td>• Visual Arts</td>
+  </tr>
+  <tr>
+    <td>• Software Development</td>
+  </tr>
+</table>
 
-  - INTJ (The Architect)
-  - Enneagram Type 3w4
-  - Highly analytical and introspective, constantly seeking self-improvement and deeper understanding of the world.
-
-- **Passions:**
-
-  - Visual Arts
-  - Software Development
-  - Stoicism and Mindfulness
-
-- **Motivation:**
-  - Driven by the desire to achieve personal and professional success.
-  - Inspired by the challenge of continuous self-improvement and mastery of new skills.
-  - Focused on building a life where my passions align with my career and personal happiness.
-
----
+<table>
+  <tr>
+    <th align="left">Motivation</th>
+  </tr>
+  <tr>
+    <td>
+      • Driven by the desire to achieve personal and professional success.
+    </td>
+    <tr>
+      <td>
+        • Inspired by the challenge of continuous self-improvement and mastery of new skills.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        • Focused on building a life where my passions align with my career and personal happiness.
+      </td>
+  </tr>
+</table>
 
 ## 🚀 Tech Stack
 
-- **Frontend**
+<table>
+  <tr>
+    <th colspan="4" align="center">Frontend</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="48" alt="TypeScript"><br>
+      TypeScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" alt="React"><br>
+      React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" alt="React Native"><br>
+      React Native
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" alt="Next.js"><br>
+      Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" width="48" alt="React Router"><br>
+      React Router
+    </td>
+    <td align="center">
+      <img src="https://cdn.candycode.com/jotai/jotai-mascot.png" width="48" alt="Jotai"><br>
+      Jotai
+    </td>
+    <td align="center">
+      <img src="https://i.namu.wiki/i/lWcXbpCwKlTNMM2v_SiGVK5Q6XsnTOvH6txHs25DbpbP_XGDum3MfxpNHYDCGHxuqGeZaJ8PVZLWO9LJFGFGAA.webp" width="48" alt="Zustand"><br>
+      Zustand
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" alt="TailwindCSS"><br>
+      TailwindCSS
+    </td>
+     </td>
+  </tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" alt="shadcn/ui"><br>
+      shadcn/ui
+    </td>
+    <td align="center">
+      <img src="https://seeklogo.com/images/H/headless-ui-logo-034B045C5C-seeklogo.com.png" width="48" alt="Headless UI"><br>
+      Headless UI
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" alt="Bootstrap"><br>
+      Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="48" alt="SASS"><br>
+      SASS
+    </td>
+  </tr>
 
-  - <img src="https://skillicons.dev/icons?i=ts" height="24" alt="TypeScript" /> <span>TypeScript</span>
-  - <img src="https://skillicons.dev/icons?i=react" height="24" alt="React" /> <span>React</span>
-  - <img src="https://skillicons.dev/icons?i=react" height="24" alt="React Router" /> <span>React Native</span>
-  - <img src="https://skillicons.dev/icons?i=nextjs" height="24" alt="Next.js" /> <span>Next.js</span>
-  - <img src="https://www.svgrepo.com/show/354262/react-router.svg" height="24" alt="React Router" /> <span>React Router</span>
-  - <img src="https://skillicons.dev/icons?i=tailwind" height="24" alt="TailwindCSS" /> <span>TailwindCSS</span>
-  - <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="24" alt="shadcn/ui" style="border-radius: 4px" /> <span>shadcn/ui</span>
-  - <img src="https://seeklogo.com/images/H/headless-ui-logo-034B045C5C-seeklogo.com.png" height="24" alt="Headless UI" /> <span>Headless UI</span>
-  - <img src="https://skillicons.dev/icons?i=bootstrap" height="24" alt="Bootstrap" /> <span>Bootstrap</span>
-  - <img src="https://skillicons.dev/icons?i=sass" height="24" alt="SASS" /> <span>SASS</span>
+  <tr>
+    <th colspan="4" align="center">Backend</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js"><br>
+      Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js"><br>
+      Express.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP"><br>
+      PHP
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"><br>
+      MySQL
+    </td>
+  </tr>
 
-- **Backend**
-
-  - <img src="https://skillicons.dev/icons?i=nodejs" height="24" alt="Node.js" /> <span>Node.js</span>
-  - <img src="https://skillicons.dev/icons?i=express" height="24" alt="Express.js" /> <span>Express.js</span>
-  - <img src="https://skillicons.dev/icons?i=php" height="24" alt="PHP" /> <span>PHP</span>
-  - <img src="https://skillicons.dev/icons?i=mysql" height="24" alt="MySQL" /> <span>MySQL</span>
-  - <img src="https://skillicons.dev/icons?i=mongodb" height="24" alt="MongoDB" /> <span>MongoDB</span>
-
-- **Tools & Platforms**
-  - <img src="https://skillicons.dev/icons?i=vscode" height="24" alt="VSCode" /> <span>Visual Studio Code</span>
-  - <img src="https://skillicons.dev/icons?i=npm" height="24" alt="NPM" /> <span>npm</span>
-  - <img src="https://skillicons.dev/icons?i=vite" height="24" alt="Vite" /> <span>Vite</span>
-  - <img src="https://skillicons.dev/icons?i=git" height="24" alt="Git" /> <span>Git</span>
-  - <img src="https://skillicons.dev/icons?i=postman" height="24" alt="Postman" /> <span>Postman</span>
-
----
+  <tr>
+    <th colspan="4" align="center">Tools & Platforms</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"" width="48" alt="Visual Studio Code"><br>
+      VS Code
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="48" alt="npm"><br>
+      npm
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" alt="Vite"><br>
+      Vite
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" alt="Git"><br>
+      Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" width="48" alt="Postman"><br>
+      Postman
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
-<div align="left">
+<div>
   <img src="https://streak-stats.demolab.com?user=begiedz&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="160" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=begiedz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="160" alt="languages graph"  />
 </div>
-
----
 
 ## ✉️ Contact
 
