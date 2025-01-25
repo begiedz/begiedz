@@ -18,11 +18,11 @@ year.forEach(day => {
 
 <code>> Hi there!</code>
 
-<code>I'm Dariusz, a passionate software engineer, combining creativity and technology to build exceptional digital experiences. With roots in visual arts and a deep dive into web development, I specialize in crafting user-friendly, visually compelling interfaces that truly resonate.</code>
+<code>I'm Dariusz, a passionate software engineer, combining creativity and technology to build exceptional digital experiences. With background in visual arts and a deep dive into web development, I specialize in crafting user-friendly, visually compelling interfaces.</code>
 
-<code>My journey started with a love for art and design, which naturally evolved into a fascination with coding. Now, I'm on a mission to blend aesthetic precision with robust functionality in every project I tackle. From dynamic React apps to intuitive user interfaces, I'm here to make the web a more beautiful and efficient place.</code>
+<code>My journey started with a love for art and design, which later evolved into a fascination with coding. Now, I'm on a mission to blend aesthetics with functionality in every project I touch. From dynamic React apps to intuitive user interfaces, I'm here to make the web a more beautiful and efficient place.</code>
 
-<code>Let's collaborate and turn bold ideas into innovative digital solutions!</code>
+<code>Let's build something together!</code>
 
 ## 🌕 About Me
 
