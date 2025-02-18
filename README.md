@@ -12,7 +12,7 @@ year.forEach(day => {
 });
 ```
 
-`Last login: Sun Dec 8 17:19:13 on ttys000`
+`Last login: Tue Feb 11 21:29:13 on ttys000`
 
 `begiedz@Dariuszs-MacBook-Air ~ %`
 
@@ -47,15 +47,12 @@ year.forEach(day => {
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-FF5B00?style=for-the-badge&logo=astro&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Context API](https://img.shields.io/badge/React%20Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Jotai](https://img.shields.io/badge/Jotai-8A2BE2?style=for-the-badge)
-![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=zustand&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-37CDBE?style=for-the-badge&logo=daisyui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0A0A0A?style=for-the-badge)
-![Headless UI](https://img.shields.io/badge/Headless%20UI-FF4785?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
@@ -64,7 +61,6 @@ year.forEach(day => {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
