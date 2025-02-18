@@ -75,10 +75,10 @@ year.forEach(day => {
 
 <div>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=begiedz&show_icons=true&theme=react&hide_border=true&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=begiedz&show_icons=true&theme=react&hide_border=true"
     height="160" alt="Github stats" />
   <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=begiedz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true&bg_color=00000000"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=begiedz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true"
   height="160" alt="Languages graph" />
 </div>
 
