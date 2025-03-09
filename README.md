@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="./img/bD24_Banner.png" />
+  <img src="./assets/begiedzDev-ascii.png" />
+  
 </div>
-
-# Dariusz Begiedza
 
 ```typescript
 const success = [];
@@ -12,30 +11,33 @@ year.forEach(day => {
 });
 ```
 
-`Last login: Tue Feb 11 21:29:13 on ttys000`
+`Last login: Sun Mar  9 09:01:13 on ttys000`
 
 `begiedz@Dariuszs-MacBook-Air ~ %`
 
-`> Hi there!`
+`> Hello there!`
 
-`I'm Dariusz, a passionate software engineer, combining creativity and technology to build exceptional digital experiences. With background in visual arts and a deep dive into web development, I specialize in crafting user-friendly, visually compelling interfaces.`
+`I'm Dariusz, Digital Artisan – a creator who sees code as craftsmanship, interfaces as architecture, and user experience as an essential part of software design. I don’t just write code. I build solutions that are thoughtful, efficient, and user-friendly. My approach is a balance between engineering precision and creative problem-solving.`
 
-`My journey started with a love for art and design, which later evolved into a fascination with coding. Now, I'm on a mission to blend aesthetics with functionality in every project I touch. From dynamic React apps to intuitive user interfaces, I'm here to make the web a more beautiful and efficient place.`
+`I focus on writing clean, maintainable code and designing interfaces that make sense. My goal is to build things that work well, are easy to navigate, and don’t get in the user’s way. Whether it's front-end development, UI design, or optimizing performance, I keep things simple, practical, and effective.`
 
 `Let's build something together!`
 
-## 🌕 About Me
+# Dariusz Begiedza
+
+## 👾 About Me
 
 ### Passions
 
-- Software Development
 - Visual Arts
+- Programming
+- Software Development
 
 ### Motivation
 
-- Driven by the desire to achieve personal and professional success.
-- Inspired by the challenge of continuous self-improvement and mastery of new skills.
-- Focused on building a life where my passions align with my career and personal happiness.
+- Focused on building skills that bring real value.
+- Driven by continuous self-improvement and problem-solving.
+- Working towards aligning passion with career and personal fulfillment.
 
 ## 🚀 Tech Stack
 
