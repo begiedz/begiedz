@@ -23,6 +23,7 @@ year.forEach(day => {
 
 `Let’s build something great together!`
 
+
 # Dariusz Begiedza
 
 ## 👾 About Me
