@@ -11,17 +11,18 @@ year.forEach(day => {
 });
 ```
 
-`Last login: Sun Mar  9 09:01:13 on ttys000`
+`Last login: Fri Mar 14 21:40:13 on ttys000`
 
 `begiedz@Dariuszs-MacBook-Air ~ %`
 
 `> Hello there!`
 
-`I'm Dariusz, Digital Artisan – a creator who sees code as craftsmanship, interfaces as architecture, and user experience as an essential part of software design. I don’t just write code. I build solutions that are thoughtful, efficient, and user-friendly. My approach is a balance between engineering precision and creative problem-solving.`
+`I’m Dariusz - for me, code is more than just lines – it’s craftsmanship. I don’t just build apps; I create well-thought-out and refined solutions that blend solid engineering with a creative approach. I see interface design as architecture, and user experience as a key part of every project. Simply put – I make things that work great and look awesome.`
 
-`I focus on writing clean, maintainable code and designing interfaces that make sense. My goal is to build things that work well, are easy to navigate, and don’t get in the user’s way. Whether it's front-end development, UI design, or optimizing performance, I keep things simple, practical, and effective.`
+`I focus on writing clean, maintainable code and designing interfaces that feel intuitive. My goal is to build things that function smoothly, are easy to navigate, and enhance the user experience rather than getting in the way. Whether it’s front-end development, UI design, or performance optimization, I keep things simple, practical, and effective.`
 
-`Let's build something together!`
+`Let’s build something great together!`
+
 
 # Dariusz Begiedza
 
@@ -86,6 +87,6 @@ year.forEach(day => {
 
 ## ✉️ Contact
 
-- **Email:** [begiedz.developer@gmail.com](mailto:begiedz.developer@gmail.com)
+- **Email:** [contact@begiedz.dev](mailto:contact@begiedz.dev)
 - **LinkedIn:** [Dariusz Begiedza](https://www.linkedin.com/in/dariuszbegiedza/)
-- **Portfolio:** [begiedzDeveloper](https://begiedz.vercel.app)
+- **Portfolio:** [begiedz.dev](https://begiedz.dev)
