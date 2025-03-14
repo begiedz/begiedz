@@ -11,7 +11,7 @@ year.forEach(day => {
 });
 ```
 
-`Last login: Sun Mar 14 21:40:13 on ttys000`
+`Last login: Fri Mar 14 21:40:13 on ttys000`
 
 `begiedz@Dariuszs-MacBook-Air ~ %`
 
