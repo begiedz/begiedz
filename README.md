@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="./assets/bD24_Banner.png" />
-  
-</div>
+ <img src="./assets/bgdz25-banner.png" />
 
 ```typescript
 const success = [];
@@ -22,7 +19,6 @@ year.forEach(day => {
 `I focus on writing clean, maintainable code and designing interfaces that feel intuitive. My goal is to build things that function smoothly, are easy to navigate, and enhance the user experience rather than getting in the way. Whether it’s front-end development, UI design, or performance optimization, I keep things simple, practical, and effective.`
 
 `Let’s build something great together!`
-
 
 # Dariusz Begiedza
 
