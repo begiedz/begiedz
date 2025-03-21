@@ -8,7 +8,7 @@ year.forEach(day => {
 });
 ```
 
-`Last login: Fri Mar 14 21:40:13 on ttys000`
+`Last login: Fri Mar 21 11:39:13 on ttys000`
 
 `begiedz@Dariuszs-MacBook-Air ~ %`
 
@@ -74,11 +74,15 @@ year.forEach(day => {
 
 <div>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=begiedz&show_icons=true&theme=react&hide_border=true"
+    src="https://nirzak-streak-stats.vercel.app/?user=begiedz&theme=react&hide_border=false&hide_border=true"
     height="160" alt="Github stats" />
-  <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=begiedz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true"
+<img 
+    src="https://github-readme-stats.vercel.app/api?username=begiedz&show_icons=true&include_all_commits=true&theme=react&hide_border=true"
+    height="160" alt="Github stats" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=begiedz&locale=en&hide_title=false&layout=compact&langs_count=8&theme=react&hide_border=true"
   height="160" alt="Languages graph" />
+
 </div>
 
 ## ✉️ Contact
