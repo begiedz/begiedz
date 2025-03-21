@@ -74,10 +74,16 @@ year.forEach(day => {
 
 <div>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=begiedz&show_icons=true&theme=react&hide_border=true"
+    src="https://github-profile-trophy.vercel.app/?username=begiedz&theme=dracula&no-frame=true&no-bg=false&margin-w=4"
+    height="160" alt="Github stats" />
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=begiedz&theme=dracula&hide_border=false&hide_border=true"
+    height="160" alt="Github stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=begiedz&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"
     height="160" alt="Github stats" />
   <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=begiedz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=begiedz&locale=en&hide_title=false&layout=compact&langs_count=8&theme=dracula&hide_border=true"
   height="160" alt="Languages graph" />
 </div>
 
