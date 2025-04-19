@@ -1,14 +1,14 @@
- <img src="./assets/bgdz25-banner.png" />
+ <img src="./assets/begiedz-dev-banner.png" />
 
 ```typescript
 const success = [];
 
 year.forEach(day => {
-	success.push(day.effort);
+  success.push(day.effort);
 });
 ```
 
-`Last login: Fri Mar 21 11:39:13 on ttys000`
+`Last login: Sat Apr 19 19:45:13 on ttys000`
 
 `begiedz@Dariuszs-MacBook-Air ~ %`
 
@@ -48,6 +48,7 @@ year.forEach(day => {
 ![Astro](https://img.shields.io/badge/Astro-FF5B00?style=for-the-badge&logo=astro&logoColor=white)
 ![React Context API](https://img.shields.io/badge/React%20Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-37CDBE?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
