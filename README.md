@@ -24,16 +24,18 @@ year.forEach(day => {
 
 ## 👾 About Me
 
-### Passions
+### Current Focus
 
-- Visual Arts
-- Programming
-- Software Development
+- Pursuing a Bachelor of Engineering, Computer Science degree.
+
+- Building a freelance web development brand and offering services as a modern frontend developer. @[begiedz.dev](https://begiedz.dev)
 
 ### Motivation
 
 - Focused on building skills that bring real value.
+
 - Driven by continuous self-improvement and problem-solving.
+
 - Working towards aligning passion with career and personal fulfillment.
 
 ## 🚀 Tech Stack
@@ -89,5 +91,5 @@ year.forEach(day => {
 ## ✉️ Contact
 
 - **Email:** [contact@begiedz.dev](mailto:contact@begiedz.dev)
-- **LinkedIn:** [Dariusz Begiedza](https://www.linkedin.com/in/dariuszbegiedza/)
+- **LinkedIn:** [Dariusz Begiedza](https://www.linkedin.com/in/dariusz-begiedza/)
 - **Portfolio:** [begiedz.dev](https://begiedz.dev)
