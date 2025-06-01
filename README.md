@@ -8,15 +8,40 @@ year.forEach(day => {
 });
 ```
 
-`Last login: Sat Apr 19 19:45:13 on ttys000`
+`Welcome to Ubuntu 24.04.2 LTS (GNU/Linux 6.11.0-26-generic x86_64)`
 
-`begiedz@Dariuszs-MacBook-Air ~ %`
+`Last login: Sun Jun  1 18:23:45 2025 on tty1`
+
+```
+            .-/+oossssoo+/-.               begiedz@begiedz-server
+        `:+ssssssssssssssssss+:`           ----------------------
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 24.04.2 LTS x86_64
+    .ossssssssssssssssssdMMMNysssso.       Host: Inspiron 15 7000 Gaming
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 6.11.0-26-generic
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 15 mins
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 1872 (dpkg), 17 (snap)
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: zsh 5.9
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1920x1080
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Terminal: /dev/pts/0
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: Intel i5-7300HQ (4) @ 3.500GHz
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   GPU: NVIDIA GeForce GTX 1050 Ti Mobile
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   GPU: Intel HD Graphics 630
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Memory: 481MiB / 15858MiB
+  +sssssssssdmydMMMMMMMMddddyssssssss+
+   /ssssssssssshdmNNNNmyNMMMMhssssss/
+    .ossssssssssssssssssdMMMNysssso.
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
+```
+
+`begiedz@begiedz-server:~$`
 
 `> Hello there!`
 
-`I’m Dariusz - for me, code is more than just lines – it’s craftsmanship. I don’t just build apps; I create well-thought-out and refined solutions that blend solid engineering with a creative approach. I see interface design as architecture, and user experience as a key part of every project. Simply put – I make things that work great and look awesome.`
+`I’m Dariusz - for me, code is more than just lines – it’s craftsmanship. I see interface design as architecture, and user experience as a key part of every project. Simply put – I make things that work great and look awesome.`
 
-`I focus on writing clean, maintainable code and designing interfaces that feel intuitive. My goal is to build things that function smoothly, are easy to navigate, and enhance the user experience rather than getting in the way. Whether it’s front-end development, UI design, or performance optimization, I keep things simple, practical, and effective.`
+`I focus on writing clean, maintainable code and designing interfaces that feel intuitive. My goal is to build things that function smoothly, are easy to navigate, and enhance the user experience rather than getting in the way. Whether it’s front-end development, back-end programming, UI design, or performance optimization, I keep things simple, practical, and effective.`
 
 `Let’s build something great together!`
 
@@ -28,7 +53,7 @@ year.forEach(day => {
 
 - Pursuing a Bachelor of Engineering, Computer Science degree.
 
-- Building a freelance web development brand and offering services as a modern frontend developer. @[begiedz.dev](https://begiedz.dev)
+- Building a freelance web development brand. @[begiedz.dev](https://begiedz.dev)
 
 ### Motivation
 
@@ -40,7 +65,7 @@ year.forEach(day => {
 
 ## 🚀 Tech Stack
 
-### Frontend
+### Front-end
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,18 +81,20 @@ year.forEach(day => {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Backend
+### Back-end
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
