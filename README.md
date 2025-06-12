@@ -12,36 +12,13 @@ year.forEach(day => {
 
 `Last login: Sun Jun  1 18:23:45 2025 on tty1`
 
-```
-            .-/+oossssoo+/-.               begiedz@begiedz-server
-        `:+ssssssssssssssssss+:`           ----------------------
-      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 24.04.2 LTS x86_64
-    .ossssssssssssssssssdMMMNysssso.       Host: Inspiron 15 7000 Gaming
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 6.11.0-26-generic
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 15 mins
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 1872 (dpkg), 17 (snap)
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: zsh 5.9
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1920x1080
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Terminal: /dev/pts/0
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: Intel i5-7300HQ (4) @ 3.500GHz
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   GPU: NVIDIA GeForce GTX 1050 Ti Mobile
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   GPU: Intel HD Graphics 630
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Memory: 481MiB / 15858MiB
-  +sssssssssdmydMMMMMMMMddddyssssssss+
-   /ssssssssssshdmNNNNmyNMMMMhssssss/
-    .ossssssssssssssssssdMMMNysssso.
-      -+sssssssssssssssssyyyssss+-
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.
-```
-
 `begiedz@begiedz-server:~$`
 
 `> Hello there!`
 
 `I’m Dariusz - for me, code is more than just lines – it’s craftsmanship. I see interface design as architecture, and user experience as a key part of every project. Simply put – I make things that work great and look awesome.`
 
-`I focus on writing clean, maintainable code and designing interfaces that feel intuitive. My goal is to build things that function smoothly, are easy to navigate, and enhance the user experience rather than getting in the way. Whether it’s front-end development, back-end programming, UI design, or performance optimization, I keep things simple, practical, and effective.`
+`I focus on writing clean, maintainable code and designing interfaces that feel intuitive. My goal is to build things that function smoothly, are easy to navigate, and enhance the user experience rather than getting in the way. Whether it’s frontend development, backend programming, UI design, or performance optimization, I keep things simple, practical, and effective.`
 
 `Let’s build something great together!`
 
@@ -65,7 +42,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: Intel i5-7300HQ (4) @ 3.500GHz
 
 ## 🚀 Tech Stack
 
-### Front-end
+### Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -81,7 +58,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: Intel i5-7300HQ (4) @ 3.500GHz
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Back-end
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
