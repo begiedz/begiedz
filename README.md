@@ -41,6 +41,8 @@ year.forEach(day => {
 ## 🚀 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-512BD4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJMYXllcl8xIiB2aWV3Qm94PSIwIDAgMjA0LjggMjA0LjgiPjxkZWZzPjxzdHlsZT4uc3Qwe2ZpbGw6I2ZmZn08L3N0eWxlPjwvZGVmcz48cGF0aCBkPSJNMTE5LjQ4IDk2LjcyaDExLjM5djExLjM5aC0xMS4zOXoiIGNsYXNzPSJzdDAiLz48cGF0aCBkPSJtMTcwLjcxIDQ5LjgxLTU2LjkzLTMyLjg2YTIyLjggMjIuOCAwIDAgMC0yMi43NyAwTDM0LjA4IDQ5LjgxYTIyLjggMjIuOCAwIDAgMC0xMS4zOSAxOS43MnY2NS43NGMwIDguMTMgNC4zNCAxNS42NSAxMS4zOSAxOS43Mmw1Ni45MyAzMi44N2EyMi44IDIyLjggMCAwIDAgMjIuNzcgMGw1Ni45My0zMi44N2EyMi44IDIyLjggMCAwIDAgMTEuMzktMTkuNzJWNjkuNTNjMC04LjE0LTQuMzQtMTUuNjYtMTEuMzktMTkuNzJNNjguMjMgMTE5LjQ4bC4wMi4wMWE1LjcgNS43IDAgMCAwIDUuNjktNS42OSA1LjcgNS43IDAgMCAxIDExLjM4LS4wMSAxNy4wOCAxNy4wOCAwIDAgMS0zNC4xNiAwVjkxLjAyYTE3LjA4IDE3LjA4IDAgMCAxIDM0LjE2IDAgNS43IDUuNyAwIDAgMS0xMS4zOCAwIDUuNyA1LjcgMCAwIDAtMTEuMzggMHYyMi43N2E1LjcgNS43IDAgMCAwIDUuNjcgNS42OW03OS42OC0xMS4zNmE1LjY4IDUuNjggMCAxIDEgLjAxIDExLjM4aC4wNGwtNS43MS0uMDF2NS42OWE1LjcgNS43IDAgMCAxLTkuNyA0LjA1bC0uMDItLjAyYTUuNyA1LjcgMCAwIDEtMS42Ny00LjAzdi01LjY5aC0xMS4zOXY1LjY5YTUuNyA1LjcgMCAwIDEtNS42NyA1LjY5aC0uMDNhNS43IDUuNyAwIDAgMS01LjY5LTUuNjd2LTUuNzFoLTUuN2E1LjcgNS43IDAgMCAxIDAtMTEuMzhoNS42OVY5Ni43MmgtNS42OWE1LjcgNS43IDAgMCAxIDAtMTEuMzhoNS42OXYtNS42OWE1LjcgNS43IDAgMCAxIDExLjM4IDB2NS42OWgxMS4zOXYtNS42OWE1LjcgNS43IDAgMCAxIDExLjM4IDB2NS42OWg1LjY5YTUuNjggNS42OCAwIDAgMSA0LjA0IDkuN2wtLjAyLjAyYTUuNyA1LjcgMCAwIDEtNC4wMiAxLjY3aC01LjY5djExLjM5eiIgY2xhc3M9InN0MCIvPjwvc3ZnPg==)
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 
@@ -50,6 +52,8 @@ year.forEach(day => {
 ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5B00?style=for-the-badge&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
