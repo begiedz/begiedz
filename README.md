@@ -81,13 +81,14 @@ year.forEach(day => {
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=begiedz&theme=react&hide_border=false&hide_border=true"
     height="160" alt="Github stats" />
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=begiedz&show_icons=true&include_all_commits=true&theme=react&hide_border=true"
-    height="160" alt="Github stats" />
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=begiedz&locale=en&hide_title=false&layout=compact&langs_count=8&theme=react&hide_border=true"
-  height="160" alt="Languages graph" />
-
+ <!--
+ <img 
+     src="https://github-readme-stats.vercel.app/api?username=begiedz&show_icons=true&include_all_commits=true&theme=react&hide_border=true"
+     height="160" alt="Github stats" />
+ <img
+   src="https://github-readme-stats.vercel.app/api/top-langs?username=begiedz&locale=en&hide_title=false&layout=compact&langs_count=8&theme=react&hide_border=true"
+   height="160" alt="Languages graph" />
+   -->
 </div>
 
 ## ✉️ Contact
