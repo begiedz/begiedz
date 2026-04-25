@@ -83,16 +83,19 @@ year.forEach(day => {
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=begiedz&layout=compact&theme=material-palenight&langs_count=12&hide_border=true"
     alt="Most Used Languages"/>
- <img 
+
+<img 
     src="https://github-readme-stats.vercel.app/api?username=begiedz&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true"
     alt="GitHub Stats"/>
- <img 
+
+<img 
     src="https://streak-stats.demolab.com/?user=begiedz&theme=material-palenight&hide_border=true"
     alt="Contribution Streak"/>
-  
- <img 
+
+<img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=begiedz&theme=material-palenight"
     alt="Contribution Graph"/>
+
 </div>
 
 ## ✉️ Contact
