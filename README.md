@@ -12,7 +12,7 @@ year.forEach(day => {
 
 `Last login: Sun Jun 15 11:23:45 2025 on tty1`
 
-`begiedz@begiedz-server:~$`
+`begiedz@bgdz-server:~$`
 
 `> Hello there!`
 
@@ -29,6 +29,8 @@ year.forEach(day => {
 ### Current Focus
 
 - Pursuing a Bachelor of Engineering, Computer Science degree.
+
+- Mastering the craft of Backend Engineering.
 
 ### Motivation
 
@@ -79,16 +81,18 @@ year.forEach(day => {
 
 <div>
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=begiedz&theme=react&hide_border=false&hide_border=true"
-    height="160" alt="Github stats" />
- <!--
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=begiedz&layout=compact&theme=material-palenight&langs_count=12&hide_border=true"
+    alt="Most Used Languages"/>
  <img 
-     src="https://github-readme-stats.vercel.app/api?username=begiedz&show_icons=true&include_all_commits=true&theme=react&hide_border=true"
-     height="160" alt="Github stats" />
- <img
-   src="https://github-readme-stats.vercel.app/api/top-langs?username=begiedz&locale=en&hide_title=false&layout=compact&langs_count=8&theme=react&hide_border=true"
-   height="160" alt="Languages graph" />
-   -->
+    src="https://github-readme-stats.vercel.app/api?username=begiedz&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true"
+    alt="GitHub Stats"/>
+ <img 
+    src="https://streak-stats.demolab.com/?user=begiedz&theme=material-palenight&hide_border=true"
+    alt="Contribution Streak"/>
+  
+ <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=begiedz&theme=material-palenight"
+    alt="Contribution Graph"/>
 </div>
 
 ## ✉️ Contact
