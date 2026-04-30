@@ -10,17 +10,21 @@ year.forEach(day => {
 
 `Welcome to Ubuntu 24.04.2 LTS (GNU/Linux 6.11.0-26-generic x86_64)`
 
-`Last login: Sun Jun 15 11:23:45 2025 on tty1`
+`Last login: Thu Apr 30 15:13:45 2026 on tty1`
 
 `begiedz@bgdz-server:~$`
 
 `> Hello there!`
 
-`I’m Dariusz - for me, code is more than just lines – it’s craftsmanship. I see interface design as architecture, and user experience as a key part of every project. Simply put – I make things that work great and look awesome.`
+`I'm Dariusz - a Software Engineer focused on building clean, scalable, and reliable applications.`
 
-`I focus on writing clean, maintainable code and designing interfaces that feel intuitive. My goal is to build things that function smoothly, are easy to navigate, and enhance the user experience rather than getting in the way. Whether it’s frontend development, backend programming, UI design, or performance optimization, I keep things simple, practical, and effective.`
+`For me, code is more than syntax - it's engineering, problem-solving, and craftsmanship. I enjoy designing systems that are not only functional, but also maintainable, efficient, and pleasant to work with.`
 
-`Let’s build something great together!`
+`My background started in frontend development, where I developed a strong sense for interfaces, usability, and user experience. Today, I work across the stack, combining frontend, backend, architecture, performance optimization, and practical software design.`
+
+`I focus on creating reliable solutions and building software that works well both for users and for the people maintaining it.`
+
+`Let's build something great together!`
 
 # Dariusz Begiedza
 
@@ -28,16 +32,14 @@ year.forEach(day => {
 
 ### Current Focus
 
+- Working as a Fullstack Developer, building and maintaining web applications.
 - Pursuing a Bachelor of Engineering, Computer Science degree.
-
 - Mastering the craft of Backend Engineering.
 
 ### Motivation
 
-- Focused on building IT skills.
-
+- Focused on building strong software engineering skills.
 - Driven by continuous self-improvement and problem-solving.
-
 - Working towards aligning passion with career and personal fulfillment.
 
 ## 🚀 Tech Stack
@@ -86,7 +88,7 @@ year.forEach(day => {
   alt="Most Used Languages"
   width="60%" />
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=begiedz&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/?username=begiedz&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true"
   alt="GitHub Stats"
   width="60%" />
 <img 
